@@ -4,7 +4,10 @@
   <img src="velospcb.png" alt="VELOS-R1 PCB Layout" width="45%" />
   <img src="velos3d.png" alt="VELOS-R1 3D Render" width="45%" />
 </p>
-
+<p align="center">
+  <img src="velosr1-front.jpg" width="45%" />
+  <img src="velosr1-back.jpg" width="45%" />
+</p>
 ---
 
 ## Origin
